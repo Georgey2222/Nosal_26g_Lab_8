@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nosal_26g_Lab_8/static/css/main.3abd20c4.css",
+    "main.js": "/Nosal_26g_Lab_8/static/js/main.714f9570.js",
+    "static/js/453.f1e09b55.chunk.js": "/Nosal_26g_Lab_8/static/js/453.f1e09b55.chunk.js",
+    "index.html": "/Nosal_26g_Lab_8/index.html",
+    "main.3abd20c4.css.map": "/Nosal_26g_Lab_8/static/css/main.3abd20c4.css.map",
+    "main.714f9570.js.map": "/Nosal_26g_Lab_8/static/js/main.714f9570.js.map",
+    "453.f1e09b55.chunk.js.map": "/Nosal_26g_Lab_8/static/js/453.f1e09b55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3abd20c4.css",
+    "static/js/main.714f9570.js"
+  ]
+}
