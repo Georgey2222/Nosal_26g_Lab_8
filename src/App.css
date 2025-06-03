@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(204, 249, 255);
+}
+
+.task {
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 60vh;
+  width: 80%;
+  margin: auto;
+}
+
+.show {
+  padding: 5px 10px;
+  background-color: blue;
+  color: white;
+}
+
+.hide {
+  padding: 5px 10px;
+  background-color: red;
+  color: white;
+}
+
+.modal {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #0007;
+}
+
+.container {
+  background-color: white;
+  padding: 50px 90px;
+  font-size: 2em;
+  z-index: 1;
+}
+
+.back {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.back:hover {
+  cursor: pointer;
+}
+
+button:hover {
+  cursor: pointer;
+}
